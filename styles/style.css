@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background-color: #1e1e1e;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+blockquote {
+  margin: 0;
+  padding: 0;
+}
+
+/* html {
+  box-sizing: border-box;
+  width: 360px;
+} */
+
+.content-section{
+    box-sizing: border-box;
+    width: 360px;
+    margin: auto;
+}
+
+.content-section-theme-dark{
+    height:100px;
+    background-color: #131313;
+}
+
+.content-section-theme-bright{
+    height:100px;
+    background-color: #FEE42A;
+}
